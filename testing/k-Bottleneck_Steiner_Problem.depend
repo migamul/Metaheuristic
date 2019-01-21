@@ -1,0 +1,1387 @@
+# depslib dependency file v1.0
+1516210204 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\main.cpp
+	"MSTheuristic.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1515766011 
+
+1512265117 s.h"
+
+1512471802 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\structures.h
+	<cmath>
+	<vector>
+	<string>
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"tree.h"
+
+1514330225 source:/home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/main.cpp
+	<iostream>
+	"structures.h"
+	<iostream>
+	"structures.h"
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+
+1512405404 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/structures.h
+	<cmath>
+	<vector>
+	<string>
+	<cmath>
+	<vector>
+	<string>
+
+1516210060 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\node.h
+	<string>
+
+1516210067 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\edge.h
+	"node.h"
+	<cmath>
+
+1515763047 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\line.h
+	"edge.h"
+
+1515779111 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\disjointset.h
+	"edge.h"
+	<vector>
+
+1516206139 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\usableedges.h
+	"edge.h"
+	<vector>
+
+1512472072 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\tree.h
+	"edge.h"
+	<vector>
+
+1515762137 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\steinertree.h
+	"edge.h"
+	<vector>
+
+1515779244 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\kruskall.h
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	"disjointSet.h"
+	<algorithm>
+	<iostream>
+
+1512606534 >
+
+1515779481 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\minimalspanningtree.h
+	"edge.h"
+	<vector>
+
+1515764865 et.h"
+
+1515765594 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\mstheuristic.h
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+
+1515762116 ee.h"
+
+1515842450 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\particle.h
+
+1515853825 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\swarm.h
+	"particle.h"
+	"node.h"
+	<vector>
+
+1515845279 c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\multiswarm.h
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	<iterator>
+	<ctime>
+
+1514332787 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/node.h
+	<string>
+	<string>
+
+1513859601 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/edge.h
+	"node.h"
+	<cmath>
+	"node.h"
+	<cmath>
+
+1513855336 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/line.h
+	"edge.h"
+	"edge.h"
+
+1514333134 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/disjointSet.h
+	"node.h"
+	<vector>
+	"node.h"
+	"edge.h"
+	<vector>
+	<iostream>
+
+1514329619 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/usableEdges.h
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+
+1513958678 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/minimalSpanningTree.h
+	"edge.h"
+	"disjointSet.h"
+	"edge.h"
+	"disjointSet.h"
+	<iostream>
+
+1513958353 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/steinerTree.h
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+
+1514333599 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/kruskall.h
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+
+1513955495 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/MSTheuristic.h
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+
+1513956993 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/particle.h
+
+1514131223 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/swarm.h
+	"particle.h"
+	"node.h"
+	<vector>
+	"particle.h"
+	"node.h"
+	<vector>
+
+1514330141 /home/monika/Dropbox/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/multiswarm.h
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<cstdlib>
+	<ctime>
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<ctime>
+	<iostream>
+
+1515095904 source:/home/monika/Desktop/k-Bottleneck_Steiner_Problem/main.cpp
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+
+1515083822 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/node.h
+	<string>
+	<string>
+
+1513859601 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/edge.h
+	"node.h"
+	<cmath>
+	"node.h"
+	<cmath>
+
+1513855336 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/line.h
+	"edge.h"
+	"edge.h"
+
+1515094116 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/disjointSet.h
+	"node.h"
+	<vector>
+	<iostream>
+	"node.h"
+	"edge.h"
+	<vector>
+	<iostream>
+
+1514329619 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/usableEdges.h
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+
+1513958678 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/minimalSpanningTree.h
+	"edge.h"
+	"disjointSet.h"
+	<iostream>
+	"edge.h"
+	"disjointSet.h"
+	<iostream>
+
+1515095571 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/steinerTree.h
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+
+1515094274 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/kruskall.h
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+
+1513955495 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/MSTheuristic.h
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+
+1513956993 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/particle.h
+
+1514131223 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/swarm.h
+	"particle.h"
+	"node.h"
+	<vector>
+	"particle.h"
+	"node.h"
+	<vector>
+
+1515095256 /home/monika/Desktop/k-Bottleneck_Steiner_Problem/multiswarm.h
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<ctime>
+	<iostream>
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<ctime>
+	<iostream>
+
+1516185308 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/main.cpp
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	"node.h"
+	"edge.h"
+	"line.h"
+	"disjointSet.h"
+	"usableEdges.h"
+	"minimalSpanningTree.h"
+	"steinerTree.h"
+	"kruskall.h"
+	"MSTheuristic.h"
+	"particle.h"
+	"swarm.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	"MSTheuristic.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1515779381 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/node.h
+	<string>
+	<string>
+	<string>
+	<string>
+	<string>
+	<string>
+	<string>
+	<string>
+
+1515773714 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/edge.h
+	"node.h"
+	<cmath>
+	"node.h"
+	<cmath>
+	"node.h"
+	<cmath>
+	"node.h"
+	<cmath>
+	"node.h"
+	<cmath>
+	"node.h"
+	<cmath>
+	"node.h"
+	<cmath>
+	"node.h"
+	<cmath>
+
+1515763047 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/line.h
+	"edge.h"
+	"edge.h"
+	"edge.h"
+	"edge.h"
+	"edge.h"
+	"edge.h"
+	"edge.h"
+	"edge.h"
+
+1515779111 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/disjointSet.h
+	"node.h"
+	"edge.h"
+	<vector>
+	<iostream>
+	"node.h"
+	"edge.h"
+	<vector>
+	<iostream>
+	"node.h"
+	"edge.h"
+	<vector>
+	<iostream>
+	"node.h"
+	"edge.h"
+	<vector>
+	<iostream>
+	"node.h"
+	"edge.h"
+	<vector>
+	<iostream>
+	"node.h"
+	"edge.h"
+	<vector>
+	"node.h"
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+
+1516206139 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/usableEdges.h
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+
+1515779481 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/minimalSpanningTree.h
+	"edge.h"
+	"disjointSet.h"
+	<iostream>
+	"edge.h"
+	"disjointSet.h"
+	<iostream>
+	"edge.h"
+	"disjointSet.h"
+	<iostream>
+	"edge.h"
+	"disjointSet.h"
+	<iostream>
+	"edge.h"
+	"disjointSet.h"
+	<iostream>
+	"edge.h"
+	"disjointSet.h"
+	"edge.h"
+	"disjointSet.h"
+	"edge.h"
+	<vector>
+
+1515762137 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/steinerTree.h
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+	"edge.h"
+	<vector>
+
+1515779244 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/kruskall.h
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	<algorithm>
+	<iostream>
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	"disjointSet.h"
+	<algorithm>
+	<iostream>
+
+1515765594 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/MSTheuristic.h
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+
+1515842450 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/particle.h
+
+1515853825 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/swarm.h
+	"particle.h"
+	"node.h"
+	<vector>
+	"particle.h"
+	"node.h"
+	<vector>
+	"particle.h"
+	"node.h"
+	<vector>
+	"particle.h"
+	"node.h"
+	<vector>
+	"particle.h"
+	"node.h"
+	<vector>
+	"particle.h"
+	"node.h"
+	<vector>
+	"particle.h"
+	"node.h"
+	<vector>
+	"particle.h"
+	"node.h"
+	<vector>
+
+1515845279 /home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/multiswarm.h
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<ctime>
+	<iostream>
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<ctime>
+	<iostream>
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<ctime>
+	<iostream>
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<ctime>
+	<iostream>
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<ctime>
+	<iostream>
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<ctime>
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	"disjointSet.h"
+	<list>
+	<iterator>
+	<ctime>
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	<iterator>
+	<ctime>
+
+1515762695 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\edge.cpp
+	"edge.h"
+
+1515763018 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\line.cpp
+	"line.h"
+
+1515764865 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\disjointset.cpp
+	"disjointSet.h"
+
+1515784064 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\kruskall.cpp
+	"kruskall.h"
+
+1515765087 h"
+
+1515764865 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/disjointSet.cpp
+	"disjointSet.h"
+	"disjointSet.h"
+
+1515762695 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/edge.cpp
+	"edge.h"
+	"edge.h"
+
+1515784064 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/kruskall.cpp
+	"kruskall.h"
+	"kruskall.h"
+
+1515763018 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/line.cpp
+	"line.h"
+	"line.h"
+
+1515762852 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/minimalSpanningTree.cpp
+	"minimalSpanningTree.h"
+	"minimalSpanningTree.h"
+
+1515762852 anningTree.h"
+
+1515765740 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/MSTheuristic.cpp
+	"MSTheuristic.h"
+	"MSTheuristic.h"
+
+1515765740 tic.h"
+
+1516138016 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/multiswarm.cpp
+	"multiswarm.h"
+	"multiswarm.h"
+
+1515766204 m.h"
+
+1516210212 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\minimalspanningtree.cpp
+	"minimalSpanningTree.h"
+
+1515765740 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\mstheuristic.cpp
+	"MSTheuristic.h"
+
+1516138016 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\multiswarm.cpp
+	"multiswarm.h"
+
+1515773844 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\node.cpp
+	"node.h"
+
+1515803683 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\particle.cpp
+	"particle.h"
+
+1515762116 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\steinertree.cpp
+	"steinerTree.h"
+
+1515765189 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\swarm.cpp
+	"swarm.h"
+
+1515765459 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\k-bottleneck_steiner_problem\usableedges.cpp
+	"usableEdges.h"
+
+1515765459 es.h"
+
+1515773844 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/node.cpp
+	"node.h"
+
+1515803683 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/particle.cpp
+	"particle.h"
+
+1515762116 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/steinerTree.cpp
+	"steinerTree.h"
+
+1515765189 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/swarm.cpp
+	"swarm.h"
+
+1515765459 source:/home/monika/Dropbox/Faks/Meta-heuristike/Projekt/k-Bottleneck_Steiner_Problem/usableEdges.cpp
+	"usableEdges.h"
+
+1515764865 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\disjointset.cpp
+	"disjointSet.h"
+
+1515779111 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\disjointset.h
+	"edge.h"
+	<vector>
+
+1516210067 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\edge.h
+	"node.h"
+	<cmath>
+
+1516210466 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\node.h
+	<string>
+
+1515762695 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\edge.cpp
+	"edge.h"
+
+1515784064 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\kruskall.cpp
+	"kruskall.h"
+
+1515779244 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\kruskall.h
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	"disjointSet.h"
+	<algorithm>
+	<iostream>
+
+1515779481 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\minimalspanningtree.h
+	"edge.h"
+	<vector>
+
+1516210349 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\usableedges.h
+	"edge.h"
+	<vector>
+
+1515763018 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\line.cpp
+	"line.h"
+
+1515763047 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\line.h
+	"edge.h"
+
+1516210212 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\minimalspanningtree.cpp
+	"minimalSpanningTree.h"
+
+1515765740 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\mstheuristic.cpp
+	"MSTheuristic.h"
+
+1515765594 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\mstheuristic.h
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+
+1515762137 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\steinertree.h
+	"edge.h"
+	<vector>
+
+1515773844 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\node.cpp
+	"node.h"
+
+1515803683 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\particle.cpp
+	"particle.h"
+
+1515842450 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\particle.h
+
+1516210229 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\steinertree.cpp
+	"steinerTree.h"
+
+1515765189 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\swarm.cpp
+	"swarm.h"
+
+1515853825 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\swarm.h
+	"particle.h"
+	"node.h"
+	<vector>
+
+1515765459 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\usableedges.cpp
+	"usableEdges.h"
+
+1516210280 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\multiswarm.cpp
+	"multiswarm.h"
+
+1516210453 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\multiswarm.h
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	<iterator>
+	<ctime>
+
+1516218057 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\k-bottleneck_steiner_problem\main.cpp
+	"MSTheuristic.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1515764865 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\disjointset.cpp
+	"disjointSet.h"
+
+1515779111 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\disjointset.h
+	"edge.h"
+	<vector>
+
+1516210067 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\edge.h
+	"node.h"
+	<cmath>
+
+1516210466 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\node.h
+	<string>
+
+1515762695 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\edge.cpp
+	"edge.h"
+
+1515784064 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\kruskall.cpp
+	"kruskall.h"
+
+1515779244 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\kruskall.h
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	"disjointSet.h"
+	<algorithm>
+	<iostream>
+
+1515779481 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\minimalspanningtree.h
+	"edge.h"
+	<vector>
+
+1516210349 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\usableedges.h
+	"edge.h"
+	<vector>
+
+1515763018 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\line.cpp
+	"line.h"
+
+1515763047 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\line.h
+	"edge.h"
+
+1516210212 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\minimalspanningtree.cpp
+	"minimalSpanningTree.h"
+
+1515765740 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\mstheuristic.cpp
+	"MSTheuristic.h"
+
+1515765594 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\mstheuristic.h
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+
+1515762137 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\steinertree.h
+	"edge.h"
+	<vector>
+
+1516210280 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\multiswarm.cpp
+	"multiswarm.h"
+
+1516210453 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\multiswarm.h
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	<iterator>
+	<ctime>
+
+1515853825 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\swarm.h
+	"particle.h"
+	"node.h"
+	<vector>
+
+1515842450 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\particle.h
+
+1515773844 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\node.cpp
+	"node.h"
+
+1515803683 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\particle.cpp
+	"particle.h"
+
+1516210229 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\steinertree.cpp
+	"steinerTree.h"
+
+1515765189 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\swarm.cpp
+	"swarm.h"
+
+1515765459 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\usableedges.cpp
+	"usableEdges.h"
+
+1516274977 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test\release\k-bottleneck_steiner_problem\main.cpp
+	"MSTheuristic.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1515764865 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\disjointset.cpp
+	"disjointSet.h"
+
+1515779111 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\disjointset.h
+	"edge.h"
+	<vector>
+
+1516210067 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\edge.h
+	"node.h"
+	<cmath>
+
+1516210466 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\node.h
+	<string>
+
+1515762695 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\edge.cpp
+	"edge.h"
+
+1515763018 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\line.cpp
+	"line.h"
+
+1515763047 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\line.h
+	"edge.h"
+
+1516280437 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\main.cpp
+	"MSTheuristic.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1515765594 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\mstheuristic.h
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+
+1516289844 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\kruskall.h
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	"disjointSet.h"
+	<algorithm>
+
+1515779481 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\minimalspanningtree.h
+	"edge.h"
+	<vector>
+
+1516210349 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\usableedges.h
+	"edge.h"
+	<vector>
+
+1515762137 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\steinertree.h
+	"edge.h"
+	<vector>
+
+1516210453 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\multiswarm.h
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	<iterator>
+	<ctime>
+
+1515853825 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\swarm.h
+	"particle.h"
+	"node.h"
+	<vector>
+
+1515842450 c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\particle.h
+
+1516210212 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\minimalspanningtree.cpp
+	"minimalSpanningTree.h"
+
+1515765740 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\mstheuristic.cpp
+	"MSTheuristic.h"
+
+1516210280 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\multiswarm.cpp
+	"multiswarm.h"
+
+1515773844 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\node.cpp
+	"node.h"
+
+1515803683 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\particle.cpp
+	"particle.h"
+
+1516210229 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\steinertree.cpp
+	"steinerTree.h"
+
+1515765189 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\swarm.cpp
+	"swarm.h"
+
+1515765459 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\test1\k-bottleneck_steiner_problem\usableedges.cpp
+	"usableEdges.h"
+
+1515764865 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\disjointset.cpp
+	"disjointSet.h"
+
+1515779111 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\disjointset.h
+	"edge.h"
+	<vector>
+
+1516210067 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\edge.h
+	"node.h"
+	<cmath>
+
+1516210466 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\node.h
+	<string>
+
+1515762695 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\edge.cpp
+	"edge.h"
+
+1516289824 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\kruskall.cpp
+	"kruskall.h"
+
+1516289844 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\kruskall.h
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	"disjointSet.h"
+	<algorithm>
+
+1515779481 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\minimalspanningtree.h
+	"edge.h"
+	<vector>
+
+1516210349 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\usableedges.h
+	"edge.h"
+	<vector>
+
+1515763018 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\line.cpp
+	"line.h"
+
+1515763047 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\line.h
+	"edge.h"
+
+1516280437 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\main.cpp
+	"MSTheuristic.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1515765594 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\mstheuristic.h
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+
+1515762137 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\steinertree.h
+	"edge.h"
+	<vector>
+
+1516210453 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\multiswarm.h
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	<iterator>
+	<ctime>
+
+1515853825 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\swarm.h
+	"particle.h"
+	"node.h"
+	<vector>
+
+1515842450 c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\particle.h
+
+1516210212 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\minimalspanningtree.cpp
+	"minimalSpanningTree.h"
+
+1515765740 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\mstheuristic.cpp
+	"MSTheuristic.h"
+
+1516210280 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\multiswarm.cpp
+	"multiswarm.h"
+
+1515773844 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\node.cpp
+	"node.h"
+
+1515803683 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\particle.cpp
+	"particle.h"
+
+1516210229 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\steinertree.cpp
+	"steinerTree.h"
+
+1515765189 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\swarm.cpp
+	"swarm.h"
+
+1515765459 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\aplication\k-bottleneck_steiner_problem\code\multiswarm heuristic\usableedges.cpp
+	"usableEdges.h"
+
+1515764865 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\disjointset.cpp
+	"disjointSet.h"
+
+1515779111 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\disjointset.h
+	"edge.h"
+	<vector>
+
+1516210067 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\edge.h
+	"node.h"
+	<cmath>
+
+1516210466 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\node.h
+	<string>
+
+1515762695 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\edge.cpp
+	"edge.h"
+
+1516289824 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\kruskall.cpp
+	"kruskall.h"
+
+1516289844 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\kruskall.h
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	"disjointSet.h"
+	<algorithm>
+
+1515779481 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\minimalspanningtree.h
+	"edge.h"
+	<vector>
+
+1516210349 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\usableedges.h
+	"edge.h"
+	<vector>
+
+1515763018 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\line.cpp
+	"line.h"
+
+1515763047 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\line.h
+	"edge.h"
+
+1516210212 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\minimalspanningtree.cpp
+	"minimalSpanningTree.h"
+
+1515765740 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\mstheuristic.cpp
+	"MSTheuristic.h"
+
+1515765594 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\mstheuristic.h
+	"line.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+
+1515762137 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\steinertree.h
+	"edge.h"
+	<vector>
+
+1516210280 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\multiswarm.cpp
+	"multiswarm.h"
+
+1516210453 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\multiswarm.h
+	"swarm.h"
+	"kruskall.h"
+	"steinerTree.h"
+	<list>
+	<iterator>
+	<ctime>
+
+1515853825 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\swarm.h
+	"particle.h"
+	"node.h"
+	<vector>
+
+1515842450 c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\particle.h
+
+1515773844 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\node.cpp
+	"node.h"
+
+1515803683 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\particle.cpp
+	"particle.h"
+
+1516210229 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\steinertree.cpp
+	"steinerTree.h"
+
+1515765189 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\swarm.cpp
+	"swarm.h"
+
+1515765459 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\application\developer\code\multiswarm heuristic\usableedges.cpp
+	"usableEdges.h"
+
+1515764865 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\disjointset.cpp
+	"disjointSet.h"
+
+1515779111 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\disjointset.h
+	"edge.h"
+	<vector>
+
+1516210067 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\edge.h
+	"node.h"
+	<cmath>
+
+1516210466 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\node.h
+	<string>
+
+1515762695 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\edge.cpp
+	"edge.h"
+
+1515763018 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\line.cpp
+	"line.h"
+
+1515763047 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\line.h
+	"edge.h"
+
+1516552852 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\main.cpp
+	"MSTheuristic.h"
+	"multiswarm.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1519478257 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\mstheuristic.h
+	"line.h"
+	"kruskal.h"
+	"steinerTree.h"
+	<list>
+
+1519478416 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\kruskal.h
+	"minimalSpanningTree.h"
+	"usableEdges.h"
+	"disjointSet.h"
+	<algorithm>
+
+1515779481 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\minimalspanningtree.h
+	"edge.h"
+	<vector>
+
+1516210349 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\usableedges.h
+	"edge.h"
+	<vector>
+
+1515762137 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\steinertree.h
+	"edge.h"
+	<vector>
+
+1519478319 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\multiswarm.h
+	"swarm.h"
+	"kruskal.h"
+	"steinerTree.h"
+	<list>
+	<iterator>
+	<ctime>
+
+1515853825 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\swarm.h
+	"particle.h"
+	"node.h"
+	<vector>
+
+1515842450 c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\particle.h
+
+1516210212 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\minimalspanningtree.cpp
+	"minimalSpanningTree.h"
+
+1515773844 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\node.cpp
+	"node.h"
+
+1515803683 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\particle.cpp
+	"particle.h"
+
+1516210229 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\steinertree.cpp
+	"steinerTree.h"
+
+1515765189 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\swarm.cpp
+	"swarm.h"
+
+1515765459 source:c:\users\luka\dropbox\faks\meta-heuristike\projekt\testing\usableedges.cpp
+	"usableEdges.h"
+

@@ -1,0 +1,86 @@
+po 1 instanca, w1= 0.95, w2= 0.25, swarm size=500, evolucije= 500 (if) 3 i pol sata
+
+estein/estein10.txt
+k = 5
+MSTheuristic(%) = 75.3108 Multiswarm(%) = 63.5272
+k = 10
+MSTheuristic(%) = 47.5404 Multiswarm(%) = 46.8114
+k = 20
+MSTheuristic(%) = 26.7026 Multiswarm(%) = 30.496
+k = 50
+MSTheuristic(%) = 12.5518 Multiswarm(%) = 13.621
+
+estein/estein20.txt
+k = 5
+MSTheuristic(%) = 62.0468 Multiswarm(%) = 57.3776
+k = 10
+MSTheuristic(%) = 56.3548 Multiswarm(%) = 50.005
+k = 20
+MSTheuristic(%) = 35.6111 Multiswarm(%) = 31.3199
+k = 50
+MSTheuristic(%) = 18.4232 Multiswarm(%) = 20.5934
+
+estein/estein50.txt
+k = 5
+MSTheuristic(%) = 73.5419 Multiswarm(%) = 67.0376
+k = 10
+MSTheuristic(%) = 55.45 Multiswarm(%) = 52.0281
+k = 20
+MSTheuristic(%) = 47.0533 Multiswarm(%) = 40.3459
+k = 50
+MSTheuristic(%) = 26.8972 Multiswarm(%) = 29.2899
+
+estein/estein100.txt
+k = 5
+MSTheuristic(%) = 68.0017 Multiswarm(%) = 66.0682
+k = 10
+MSTheuristic(%) = 57.6747 Multiswarm(%) = 49.7523
+k = 20
+MSTheuristic(%) = 48.4238 Multiswarm(%) = 46.3976
+k = 50
+MSTheuristic(%) = 32.0705 Multiswarm(%) = 31.8425
+
+
+isto, samo ponovno za n20
+
+estein/estein20.txt
+k = 5
+MSTheuristic(%) = 62.0468 Multiswarm(%) = 57.7318
+k = 10
+MSTheuristic(%) = 56.3548 Multiswarm(%) = 48.1657
+k = 20
+MSTheuristic(%) = 35.6111 Multiswarm(%) = 31.6347
+
+estein/estein20.txt
+k = 5
+MSTheuristic(%) = 62.0468 Multiswarm(%) = 57.7318
+k = 10
+MSTheuristic(%) = 56.3548 Multiswarm(%) = 46.0793
+
+
+w1=0.97, w2=0.25 (if) 472sec
+estein/estein20.txt
+k = 5
+MSTheuristic(%) = 62.0468 Multiswarm(%) = 57.0885
+k = 10
+MSTheuristic(%) = 56.3548 Multiswarm(%) = 50.3428
+k = 20
+MSTheuristic(%) = 35.6111 Multiswarm(%) = 36.8463
+
+w1=0.97, w2=0.25 (while) 50 49sec
+estein/estein20.txt
+k = 5
+MSTheuristic(%) = 62.0468 Multiswarm(%) = 57.7318
+k = 10
+MSTheuristic(%) = 56.3548 Multiswarm(%) = 50.8491
+k = 20
+MSTheuristic(%) = 35.6111 Multiswarm(%) = 32.8937
+
+w1=0.97, w2=0.25 (while) 100 72sec
+estein/estein20.txt
+k = 5
+MSTheuristic(%) = 62.0468 Multiswarm(%) = 57.0885
+k = 10
+MSTheuristic(%) = 56.3548 Multiswarm(%) = 48.1657
+k = 20
+MSTheuristic(%) = 35.6111 Multiswarm(%) = 35.596

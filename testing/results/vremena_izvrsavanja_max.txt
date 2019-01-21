@@ -1,0 +1,42 @@
+Vremena izvrsavanja
+(1 instanca)
+
+///////// n = 10 /////////////
+
+k = 5
+
+MAX = 7     2.95 sec
+MAX = 10    3.26 sec
+
+///////// n = 20 /////////////
+
+k = 5
+
+MAX = 7     4.36 sec
+MAX = 10    5 sec
+
+///////// n = 50 /////////////
+
+k = 10
+
+MAX = 7     18.12 sec
+MAX = 10    20.55 sec
+
+k = 20
+
+MAX = 7     43.23 sec
+MAX = 10    48.78 sec
+
+///////// n = 100 ////////////
+
+k = 20
+
+MAX = 7     72.4 sec
+MAX = 10    80.38 sec
+
+k = 50
+
+MAX = 5     220.64 sec ( Plan B 3x, createMST )
+MAX = 6     227.47 sec
+MAX = 7     235.71 sec
+MAX = 10    259.93 sec

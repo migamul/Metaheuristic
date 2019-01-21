@@ -1,0 +1,544 @@
+///////////////////////////////////////////////////////////////////////////////
+estein/estein10.txt
+n = 10, k = 5
+Problem: 0  MSTheuristic(%) = 75.3108         multiswarm average(%) = 63.554
+Problem: 1  MSTheuristic(%) = 50         multiswarm average(%) = 45.6061
+Problem: 2  MSTheuristic(%) = 50         multiswarm average(%) = 49.9859
+Problem: 3  MSTheuristic(%) = 48.1153         multiswarm average(%) = 50.0434
+Problem: 4  MSTheuristic(%) = 64.2332         multiswarm average(%) = 64.2332
+Problem: 5  MSTheuristic(%) = 54.4509         multiswarm average(%) = 44.8562
+Problem: 6  MSTheuristic(%) = 53.2454         multiswarm average(%) = 54.3382
+Problem: 7  MSTheuristic(%) = 47.9618         multiswarm average(%) = 43.6949
+Problem: 8  MSTheuristic(%) = 50         multiswarm average(%) = 50.011
+Problem: 9  MSTheuristic(%) = 50         multiswarm average(%) = 51.9378
+Problem: 10  MSTheuristic(%) = 50         multiswarm average(%) = 44.4184
+Problem: 11  MSTheuristic(%) = 50         multiswarm average(%) = 55.5821
+Problem: 12  MSTheuristic(%) = 50         multiswarm average(%) = 41.985
+Problem: 13  MSTheuristic(%) = 51.8052         multiswarm average(%) = 46.797
+Problem: 14  MSTheuristic(%) = 50         multiswarm average(%) = 45.5578
+MSTheuristic AVERAGE(%) = 53.0082 multiswarm AVERAGE(%) = 50.1734
+
+
+n = 10, k = 10
+Problem: 0  MSTheuristic(%) = 47.5404         multiswarm average(%) = 46.8405
+Problem: 1  MSTheuristic(%) = 30.2656         multiswarm average(%) = 30.8887
+Problem: 2  MSTheuristic(%) = 38.8057         multiswarm average(%) = 39.0839
+Problem: 3  MSTheuristic(%) = 32.4616         multiswarm average(%) = 32.4949
+Problem: 4  MSTheuristic(%) = 35.2732         multiswarm average(%) = 33.5327
+Problem: 5  MSTheuristic(%) = 39.0955         multiswarm average(%) = 36.0651
+Problem: 6  MSTheuristic(%) = 30.903         multiswarm average(%) = 30.1584
+Problem: 7  MSTheuristic(%) = 30.6293         multiswarm average(%) = 31.8431
+Problem: 8  MSTheuristic(%) = 43.5475         multiswarm average(%) = 43.5475
+Problem: 9  MSTheuristic(%) = 33.3333         multiswarm average(%) = 32.3284
+Problem: 10  MSTheuristic(%) = 40.1883         multiswarm average(%) = 41.9932
+Problem: 11  MSTheuristic(%) = 33.6459         multiswarm average(%) = 33.7349
+Problem: 12  MSTheuristic(%) = 32.2177         multiswarm average(%) = 32.2177
+Problem: 13  MSTheuristic(%) = 33.3333         multiswarm average(%) = 30.1794
+Problem: 14  MSTheuristic(%) = 37.0223         multiswarm average(%) = 37.969
+MSTheuristic AVERAGE(%) = 35.8842 multiswarm AVERAGE(%) = 35.5252
+
+
+n = 10, k = 20
+Problem: 0  MSTheuristic(%) = 26.7026         multiswarm average(%) = 29.6747
+Problem: 1  MSTheuristic(%) = 18.9304         multiswarm average(%) = 20.2032
+Problem: 2  MSTheuristic(%) = 21.6176         multiswarm average(%) = 20.8891
+Problem: 3  MSTheuristic(%) = 19.565         multiswarm average(%) = 20.313
+Problem: 4  MSTheuristic(%) = 22.2565         multiswarm average(%) = 26.4784
+Problem: 5  MSTheuristic(%) = 22.8197         multiswarm average(%) = 22.8197
+Problem: 6  MSTheuristic(%) = 18.1127         multiswarm average(%) = 20.1151
+Problem: 7  MSTheuristic(%) = 18.3601         multiswarm average(%) = 21.4286
+Problem: 8  MSTheuristic(%) = 23.5195         multiswarm average(%) = 26.7551
+Problem: 9  MSTheuristic(%) = 20         multiswarm average(%) = 22.8975
+Problem: 10  MSTheuristic(%) = 21.5992         multiswarm average(%) = 24.8713
+Problem: 11  MSTheuristic(%) = 20         multiswarm average(%) = 29.9763
+Problem: 12  MSTheuristic(%) = 19.4501         multiswarm average(%) = 20.8003
+Problem: 13  MSTheuristic(%) = 21.7912         multiswarm average(%) = 21.9172
+Problem: 14  MSTheuristic(%) = 20.4666         multiswarm average(%) = 22.3176
+MSTheuristic AVERAGE(%) = 21.0127 multiswarm AVERAGE(%) = 23.4305
+
+
+n = 10, k = 50
+Problem: 0  MSTheuristic(%) = 12.5518         multiswarm average(%) = 16.1117
+Problem: 1  MSTheuristic(%) = 8.33393         multiswarm average(%) = 10.8334
+Problem: 2  MSTheuristic(%) = 9.99718         multiswarm average(%) = 12.4758
+Problem: 3  MSTheuristic(%) = 8.33333         multiswarm average(%) = 12.5288
+Problem: 4  MSTheuristic(%) = 10         multiswarm average(%) = 14.2191
+Problem: 5  MSTheuristic(%) = 10.1604         multiswarm average(%) = 13.9925
+Problem: 6  MSTheuristic(%) = 8.33333         multiswarm average(%) = 10.2057
+Problem: 7  MSTheuristic(%) = 7.99363         multiswarm average(%) = 9.83057
+Problem: 8  MSTheuristic(%) = 10.8869         multiswarm average(%) = 14.0801
+Problem: 9  MSTheuristic(%) = 8.95273         multiswarm average(%) = 12.9813
+Problem: 10  MSTheuristic(%) = 10.3846         multiswarm average(%) = 12.5205
+Problem: 11  MSTheuristic(%) = 9.75402         multiswarm average(%) = 13.4301
+Problem: 12  MSTheuristic(%) = 8.46997         multiswarm average(%) = 10.7947
+Problem: 13  MSTheuristic(%) = 9.39885         multiswarm average(%) = 12.061
+Problem: 14  MSTheuristic(%) = 10         multiswarm average(%) = 12.0473
+MSTheuristic AVERAGE(%) = 9.57005 multiswarm AVERAGE(%) = 12.5409
+
+
+///////////////////////////////////////////////////////////////////////////////
+estein/estein20.txt
+n = 20, k = 5
+Problem: 0  MSTheuristic(%) = 62.0468         multiswarm average(%) = 57.3776
+Problem: 1  MSTheuristic(%) = 38.0611         multiswarm average(%) = 37.9484
+Problem: 2  MSTheuristic(%) = 61.0066         multiswarm average(%) = 59.5267
+Problem: 3  MSTheuristic(%) = 72.124         multiswarm average(%) = 56.9933
+Problem: 4  MSTheuristic(%) = 55.204         multiswarm average(%) = 46.8767
+Problem: 5  MSTheuristic(%) = 65.6851         multiswarm average(%) = 59.9678
+Problem: 6  MSTheuristic(%) = 50         multiswarm average(%) = 49.4783
+Problem: 7  MSTheuristic(%) = 69.2624         multiswarm average(%) = 57.4565
+Problem: 8  MSTheuristic(%) = 56.801         multiswarm average(%) = 56.801
+Problem: 9  MSTheuristic(%) = 54.2824         multiswarm average(%) = 54.2824
+Problem: 10  MSTheuristic(%) = 44.4292         multiswarm average(%) = 50.0014
+Problem: 11  MSTheuristic(%) = 53.5582         multiswarm average(%) = 50.772
+Problem: 12  MSTheuristic(%) = 76.2295         multiswarm average(%) = 73.5252
+Problem: 13  MSTheuristic(%) = 59.4811         multiswarm average(%) = 52.6184
+Problem: 14  MSTheuristic(%) = 67.1128         multiswarm average(%) = 67.1128
+MSTheuristic AVERAGE(%) = 59.019 multiswarm AVERAGE(%) = 55.3826
+
+
+n = 20, k = 10
+Problem: 0  MSTheuristic(%) = 56.3548         multiswarm average(%) = 51.7283
+Problem: 1  MSTheuristic(%) = 32.9425         multiswarm average(%) = 31.1037
+Problem: 2  MSTheuristic(%) = 44.3078         multiswarm average(%) = 52.0803
+Problem: 3  MSTheuristic(%) = 46.2323         multiswarm average(%) = 46.2381
+Problem: 4  MSTheuristic(%) = 45.859         multiswarm average(%) = 46.512
+Problem: 5  MSTheuristic(%) = 49.6026         multiswarm average(%) = 47.4173
+Problem: 6  MSTheuristic(%) = 42.5458         multiswarm average(%) = 42.5458
+Problem: 7  MSTheuristic(%) = 52.4996         multiswarm average(%) = 47.8977
+Problem: 8  MSTheuristic(%) = 47.8324         multiswarm average(%) = 44.7961
+Problem: 9  MSTheuristic(%) = 36.4986         multiswarm average(%) = 44.583
+Problem: 10  MSTheuristic(%) = 33.3333         multiswarm average(%) = 37.1828
+Problem: 11  MSTheuristic(%) = 46.4459         multiswarm average(%) = 35.4765
+Problem: 12  MSTheuristic(%) = 63.2103         multiswarm average(%) = 63.2103
+Problem: 13  MSTheuristic(%) = 44.0977         multiswarm average(%) = 37.9807
+Problem: 14  MSTheuristic(%) = 48.7549         multiswarm average(%) = 59.6165
+MSTheuristic AVERAGE(%) = 46.0345 multiswarm AVERAGE(%) = 45.8913
+
+
+n = 20, k = 20
+Problem: 0  MSTheuristic(%) = 35.6111         multiswarm average(%) = 37.6812
+Problem: 1  MSTheuristic(%) = 23.8707         multiswarm average(%) = 22.6269
+Problem: 2  MSTheuristic(%) = 29.7634         multiswarm average(%) = 33.7481
+Problem: 3  MSTheuristic(%) = 33.3333         multiswarm average(%) = 32.7037
+Problem: 4  MSTheuristic(%) = 29.3627         multiswarm average(%) = 29.3627
+Problem: 5  MSTheuristic(%) = 33.3333         multiswarm average(%) = 41.5314
+Problem: 6  MSTheuristic(%) = 28.2196         multiswarm average(%) = 28.2196
+Problem: 7  MSTheuristic(%) = 36.7145         multiswarm average(%) = 35.4744
+Problem: 8  MSTheuristic(%) = 31.8883         multiswarm average(%) = 29.4325
+Problem: 9  MSTheuristic(%) = 27.0092         multiswarm average(%) = 27.2135
+Problem: 10  MSTheuristic(%) = 22.2146         multiswarm average(%) = 23.0489
+Problem: 11  MSTheuristic(%) = 26.7791         multiswarm average(%) = 29.8015
+Problem: 12  MSTheuristic(%) = 38.1148         multiswarm average(%) = 42.298
+Problem: 13  MSTheuristic(%) = 33.3333         multiswarm average(%) = 29.8471
+Problem: 14  MSTheuristic(%) = 33.3801         multiswarm average(%) = 34.588
+MSTheuristic AVERAGE(%) = 30.8619 multiswarm AVERAGE(%) = 31.8385
+
+
+n = 20, k = 50
+Problem: 0  MSTheuristic(%) = 18.4232         multiswarm average(%) = 19.9598
+Problem: 1  MSTheuristic(%) = 10.9847         multiswarm average(%) = 14.589
+Problem: 2  MSTheuristic(%) = 15.1132         multiswarm average(%) = 19.0594
+Problem: 3  MSTheuristic(%) = 16.4015         multiswarm average(%) = 18.9841
+Problem: 4  MSTheuristic(%) = 15.2501         multiswarm average(%) = 18.6769
+Problem: 5  MSTheuristic(%) = 16.1194         multiswarm average(%) = 19.2884
+Problem: 6  MSTheuristic(%) = 14.1819         multiswarm average(%) = 17.9172
+Problem: 7  MSTheuristic(%) = 17.9261         multiswarm average(%) = 22.008
+Problem: 8  MSTheuristic(%) = 14.932         multiswarm average(%) = 18.9414
+Problem: 9  MSTheuristic(%) = 13.5706         multiswarm average(%) = 15.6922
+Problem: 10  MSTheuristic(%) = 11.2261         multiswarm average(%) = 14.9025
+Problem: 11  MSTheuristic(%) = 13.3895         multiswarm average(%) = 16.4482
+Problem: 12  MSTheuristic(%) = 18.4828         multiswarm average(%) = 22.4295
+Problem: 13  MSTheuristic(%) = 14.8703         multiswarm average(%) = 17.865
+Problem: 14  MSTheuristic(%) = 16.69         multiswarm average(%) = 20.362
+MSTheuristic AVERAGE(%) = 15.1708 multiswarm AVERAGE(%) = 18.4749
+
+
+///////////////////////////////////////////////////////////////////////////////
+estein/estein50.txt
+n = 50, k = 5
+Problem: 0  MSTheuristic(%) = 73.5419 multiswarm average(%) = 67.0376
+Problem: 1  MSTheuristic(%) = 86.4746 multiswarm average(%) = 82.7786
+Problem: 2  MSTheuristic(%) = 74.2629 multiswarm average(%) = 71.8172
+Problem: 3  MSTheuristic(%) = 62.2759 multiswarm average(%) = 62.862
+Problem: 4  MSTheuristic(%) = 67.8709 multiswarm average(%) = 68.4211
+Problem: 5  MSTheuristic(%) = 73.7613 multiswarm average(%) = 66.4911
+Problem: 6  MSTheuristic(%) = 50 multiswarm average(%) = 47.0377
+Problem: 7  MSTheuristic(%) = 61.92 multiswarm average(%) = 59.9048
+Problem: 8  MSTheuristic(%) = 58.633 multiswarm average(%) = 55.2101
+Problem: 9  MSTheuristic(%) = 61.3546 multiswarm average(%) = 69.9791
+Problem: 10  MSTheuristic(%) = 68.1617 multiswarm average(%) = 68.1617
+Problem: 11  MSTheuristic(%) = 82.736 multiswarm average(%) = 72.2513
+Problem: 12  MSTheuristic(%) = 56.8758 multiswarm average(%) = 54.0821
+Problem: 13  MSTheuristic(%) = 87.0924 multiswarm average(%) = 76.2717
+Problem: 14  MSTheuristic(%) = 81.1417 multiswarm average(%) = 70.0128
+MSTheuristic AVERAGE(%) = 69.7402    multiswarm AVERAGE(%) = 66.1546
+
+
+n = 50, k = 10
+Problem: 0  MSTheuristic(%) = 55.45 multiswarm average(%) = 55.45
+Problem: 1  MSTheuristic(%) = 79.1593 multiswarm average(%) = 59.9745
+Problem: 2  MSTheuristic(%) = 63.2901 multiswarm average(%) = 60.686
+Problem: 3  MSTheuristic(%) = 53.1256 multiswarm average(%) = 54.1768
+Problem: 4  MSTheuristic(%) = 60.7047 multiswarm average(%) = 56.1764
+Problem: 5  MSTheuristic(%) = 61.5508 multiswarm average(%) = 54.5795
+Problem: 6  MSTheuristic(%) = 39.9298 multiswarm average(%) = 40.5891
+Problem: 7  MSTheuristic(%) = 51.7172 multiswarm average(%) = 51.9015
+Problem: 8  MSTheuristic(%) = 52.6937 multiswarm average(%) = 52.6937
+Problem: 9  MSTheuristic(%) = 53.5909 multiswarm average(%) = 52.2523
+Problem: 10  MSTheuristic(%) = 60.1225 multiswarm average(%) = 54.8961
+Problem: 11  MSTheuristic(%) = 71.328 multiswarm average(%) = 69.3954
+Problem: 12  MSTheuristic(%) = 51.1226 multiswarm average(%) = 45.5167
+Problem: 13  MSTheuristic(%) = 76.0746 multiswarm average(%) = 68.662
+Problem: 14  MSTheuristic(%) = 57.0204 multiswarm average(%) = 55.3325
+MSTheuristic AVERAGE(%) = 59.1253    multiswarm AVERAGE(%) = 55.4855
+
+
+n = 50, k = 20
+Problem: 0  MSTheuristic(%) = 47.0533 multiswarm average(%) = 47.1964
+Problem: 1  MSTheuristic(%) = 52.158 multiswarm average(%) = 56.195
+Problem: 2  MSTheuristic(%) = 51.7446 multiswarm average(%) = 47.1957
+Problem: 3  MSTheuristic(%) = 45.7618 multiswarm average(%) = 43.5705
+Problem: 4  MSTheuristic(%) = 49.4356 multiswarm average(%) = 49.4356
+Problem: 5  MSTheuristic(%) = 47.0923 multiswarm average(%) = 49.0923
+Problem: 6  MSTheuristic(%) = 33.3333 multiswarm average(%) = 30.1791
+Problem: 7  MSTheuristic(%) = 44.6274 multiswarm average(%) = 49.4193
+Problem: 8  MSTheuristic(%) = 43.5145 multiswarm average(%) = 34.8514
+Problem: 9  MSTheuristic(%) = 43.0264 multiswarm average(%) = 41.9221
+Problem: 10  MSTheuristic(%) = 46.2251 multiswarm average(%) = 46.1633
+Problem: 11  MSTheuristic(%) = 51.3984 multiswarm average(%) = 55.2021
+Problem: 12  MSTheuristic(%) = 38.1732 multiswarm average(%) = 34.8433
+Problem: 13  MSTheuristic(%) = 56.7614 multiswarm average(%) = 56.7614
+Problem: 14  MSTheuristic(%) = 46.7759 multiswarm average(%) = 45.4501
+MSTheuristic AVERAGE(%) = 46.4721    multiswarm AVERAGE(%) = 45.8319
+
+
+n = 50, k = 50
+Problem: 0  MSTheuristic(%) = 26.8972 multiswarm average(%) = 30.6129
+Problem: 1  MSTheuristic(%) = 36.2317 multiswarm average(%) = 38.021
+Problem: 2  MSTheuristic(%) = 30.343 multiswarm average(%) = 34.1118
+Problem: 3  MSTheuristic(%) = 27.6133 multiswarm average(%) = 31.5695
+Problem: 4  MSTheuristic(%) = 27.9062 multiswarm average(%) = 28.9363
+Problem: 5  MSTheuristic(%) = 27.4245 multiswarm average(%) = 33.0681
+Problem: 6  MSTheuristic(%) = 19.5334 multiswarm average(%) = 21.6173
+Problem: 7  MSTheuristic(%) = 25 multiswarm average(%) = 29.1993
+Problem: 8  MSTheuristic(%) = 25 multiswarm average(%) = 27.1988
+Problem: 9  MSTheuristic(%) = 25.5222 multiswarm average(%) = 31.5455
+Problem: 10  MSTheuristic(%) = 27.448 multiswarm average(%) = 28.7534
+Problem: 11  MSTheuristic(%) = 31.595 multiswarm average(%) = 35.8058
+Problem: 12  MSTheuristic(%) = 24.0366 multiswarm average(%) = 28.1283
+Problem: 13  MSTheuristic(%) = 33.3333 multiswarm average(%) = 37.2809
+Problem: 14  MSTheuristic(%) = 29.4125 multiswarm average(%) = 34.9752
+MSTheuristic AVERAGE(%) = 27.8198    multiswarm AVERAGE(%) = 31.3883
+
+
+///////////////////////////////////////////////////////////////////////////////
+estein/estein100.txt
+n = 100, k = 5
+Problem: 0  MSTheuristic(%) = 68.0017 multiswarm average(%) = 66.0682
+Problem: 1  MSTheuristic(%) = 57.3441 multiswarm average(%) = 60.7728
+Problem: 2  MSTheuristic(%) = 76.1476 multiswarm average(%) = 73.7655
+Problem: 3  MSTheuristic(%) = 58.8904 multiswarm average(%) = 58.5038
+Problem: 4  MSTheuristic(%) = 80.4018 multiswarm average(%) = 72.4775
+Problem: 5  MSTheuristic(%) = 71.6899 multiswarm average(%) = 63.2035
+Problem: 6  MSTheuristic(%) = 93.8739 multiswarm average(%) = 83.9187
+Problem: 7  MSTheuristic(%) = 90.6771 multiswarm average(%) = 85.1088
+Problem: 8  MSTheuristic(%) = 73.5992 multiswarm average(%) = 71.5111
+Problem: 9  MSTheuristic(%) = 82.2324 multiswarm average(%) = 74.2348
+Problem: 10  MSTheuristic(%) = 80.7944 multiswarm average(%) = 77.5538
+Problem: 11  MSTheuristic(%) = 64.5629 multiswarm average(%) = 59.7668
+Problem: 12  MSTheuristic(%) = 80.7408 multiswarm average(%) = 80.7408
+Problem: 13  MSTheuristic(%) = 62.2195 multiswarm average(%) = 55.3746
+Problem: 14  MSTheuristic(%) = 78.1111 multiswarm average(%) = 78.1111
+MSTheuristic AVERAGE(%) = 74.6191    multiswarm AVERAGE(%) = 70.7408
+
+
+n = 100, k = 10
+Problem: 0  MSTheuristic(%) = 57.6747 multiswarm average(%) = 54.7659
+Problem: 1  MSTheuristic(%) = 54.0054 multiswarm average(%) = 54.0054
+Problem: 2  MSTheuristic(%) = 66.3083 multiswarm average(%) = 67.867
+Problem: 3  MSTheuristic(%) = 56.0312 multiswarm average(%) = 51.0361
+Problem: 4  MSTheuristic(%) = 65.5304 multiswarm average(%) = 66.7833
+Problem: 5  MSTheuristic(%) = 61.4506 multiswarm average(%) = 60.7275
+Problem: 6  MSTheuristic(%) = 78.3169 multiswarm average(%) = 76.6556
+Problem: 7  MSTheuristic(%) = 77.4189 multiswarm average(%) = 76.8801
+Problem: 8  MSTheuristic(%) = 68.6692 multiswarm average(%) = 67.1248
+Problem: 9  MSTheuristic(%) = 72.5692 multiswarm average(%) = 72.2487
+Problem: 10  MSTheuristic(%) = 75.5114 multiswarm average(%) = 66.8181
+Problem: 11  MSTheuristic(%) = 57.2564 multiswarm average(%) = 55.7621
+Problem: 12  MSTheuristic(%) = 74.0454 multiswarm average(%) = 72.622
+Problem: 13  MSTheuristic(%) = 51.6668 multiswarm average(%) = 49.3624
+Problem: 14  MSTheuristic(%) = 68.8985 multiswarm average(%) = 68.8985
+MSTheuristic AVERAGE(%) = 65.6902    multiswarm AVERAGE(%) = 64.1038
+
+
+n = 100, k = 20
+Problem: 0  MSTheuristic(%) = 48.4238 multiswarm average(%) = 41.9045
+Problem: 1  MSTheuristic(%) = 47.7257 multiswarm average(%) = 47.3176
+Problem: 2  MSTheuristic(%) = 59.1713 multiswarm average(%) = 55.2941
+Problem: 3  MSTheuristic(%) = 49.1056 multiswarm average(%) = 45.3594
+Problem: 4  MSTheuristic(%) = 59.9888 multiswarm average(%) = 60.012
+Problem: 5  MSTheuristic(%) = 56.8547 multiswarm average(%) = 55.0063
+Problem: 6  MSTheuristic(%) = 68.1538 multiswarm average(%) = 67.8354
+Problem: 7  MSTheuristic(%) = 68.9756 multiswarm average(%) = 67.9277
+Problem: 8  MSTheuristic(%) = 64.8522 multiswarm average(%) = 59.1741
+Problem: 9  MSTheuristic(%) = 63.1054 multiswarm average(%) = 61.2657
+Problem: 10  MSTheuristic(%) = 63.6277 multiswarm average(%) = 58.8227
+Problem: 11  MSTheuristic(%) = 49.2075 multiswarm average(%) = 44.2475
+Problem: 12  MSTheuristic(%) = 66.2661 multiswarm average(%) = 65.4516
+Problem: 13  MSTheuristic(%) = 44.3919 multiswarm average(%) = 41.7091
+Problem: 14  MSTheuristic(%) = 62.3624 multiswarm average(%) = 56.5756
+MSTheuristic AVERAGE(%) = 58.1475    multiswarm AVERAGE(%) = 55.1935
+
+
+n = 100, k = 50
+Problem: 0  MSTheuristic(%) = 32.0705 multiswarm average(%) = 34.7517
+Problem: 1  MSTheuristic(%) = 34.405 multiswarm average(%) = 34.8071
+Problem: 2  MSTheuristic(%) = 40.1339 multiswarm average(%) = 43.4916
+Problem: 3  MSTheuristic(%) = 33.9808 multiswarm average(%) = 33.4965
+Problem: 4  MSTheuristic(%) = 43.8011 multiswarm average(%) = 41.7867
+Problem: 5  MSTheuristic(%) = 42.5148 multiswarm average(%) = 41.8192
+Problem: 6  MSTheuristic(%) = 49.4258 multiswarm average(%) = 49.4258
+Problem: 7  MSTheuristic(%) = 46.7203 multiswarm average(%) = 50.978
+Problem: 8  MSTheuristic(%) = 46.5062 multiswarm average(%) = 44.7695
+Problem: 9  MSTheuristic(%) = 46.566 multiswarm average(%) = 46.566
+Problem: 10  MSTheuristic(%) = 45.1231 multiswarm average(%) = 45.4666
+Problem: 11  MSTheuristic(%) = 33.2297 multiswarm average(%) = 33.6291
+Problem: 12  MSTheuristic(%) = 45.6443 multiswarm average(%) = 47.1643
+Problem: 13  MSTheuristic(%) = 32.4297 multiswarm average(%) = 32.1278
+Problem: 14  MSTheuristic(%) = 44.0589 multiswarm average(%) = 46.6585
+MSTheuristic AVERAGE(%) = 41.1073    multiswarm AVERAGE(%) = 41.7959
+
+
+///////////////////////////////////////////////////////////////////////////////
+estein/estein250.txt
+n = 250, k = 5
+Problem: 0  MSTheuristic(%) = 77.2819 multiswarm average(%) = 77.2819
+Problem: 1  MSTheuristic(%) = 79.6094 multiswarm average(%) = 78.0874
+Problem: 2  MSTheuristic(%) = 94.7109 multiswarm average(%) = 91.6252
+Problem: 3  MSTheuristic(%) = 70.4031 multiswarm average(%) = 70.0359
+Problem: 4  MSTheuristic(%) = 79.8618 multiswarm average(%) = 79.8618
+Problem: 5  MSTheuristic(%) = 58.765 multiswarm average(%) = 58.765
+Problem: 6  MSTheuristic(%) = 83.0612 multiswarm average(%) = 82.6563
+Problem: 7  MSTheuristic(%) = 80.7016 multiswarm average(%) = 76.8714
+Problem: 8  MSTheuristic(%) = 87.5831 multiswarm average(%) = 91.631
+Problem: 9  MSTheuristic(%) = 78.5979 multiswarm average(%) = 78.5979
+Problem: 10  MSTheuristic(%) = 78.812 multiswarm average(%) = 78.812
+Problem: 11  MSTheuristic(%) = 83.8738 multiswarm average(%) = 83.6975
+Problem: 12  MSTheuristic(%) = 81.4552 multiswarm average(%) = 80.9848
+Problem: 13  MSTheuristic(%) = 74.6389 multiswarm average(%) = 74.6389
+Problem: 14  MSTheuristic(%) = 86.1894 multiswarm average(%) = 85.893
+MSTheuristic AVERAGE(%) = 79.703    multiswarm AVERAGE(%) = 79.296
+
+
+n = 250, k = 10
+Problem: 0  MSTheuristic(%) = 66.1583 multiswarm average(%) = 64.8599
+Problem: 1  MSTheuristic(%) = 73.142 multiswarm average(%) = 70.6288
+Problem: 2  MSTheuristic(%) = 83.7191 multiswarm average(%) = 83.048
+Problem: 3  MSTheuristic(%) = 67.5179 multiswarm average(%) = 66.1623
+Problem: 4  MSTheuristic(%) = 75.547 multiswarm average(%) = 70.9324
+Problem: 5  MSTheuristic(%) = 56.5339 multiswarm average(%) = 56.5339
+Problem: 6  MSTheuristic(%) = 80.5593 multiswarm average(%) = 79.7344
+Problem: 7  MSTheuristic(%) = 74.5794 multiswarm average(%) = 72.4282
+Problem: 8  MSTheuristic(%) = 84.4335 multiswarm average(%) = 84.1893
+Problem: 9  MSTheuristic(%) = 73.8264 multiswarm average(%) = 66.25
+Problem: 10  MSTheuristic(%) = 75.0876 multiswarm average(%) = 71.8605
+Problem: 11  MSTheuristic(%) = 78.6885 multiswarm average(%) = 77.9024
+Problem: 12  MSTheuristic(%) = 75.5861 multiswarm average(%) = 68.2549
+Problem: 13  MSTheuristic(%) = 69.7694 multiswarm average(%) = 69.4265
+Problem: 14  MSTheuristic(%) = 80.453 multiswarm average(%) = 79.3297
+MSTheuristic AVERAGE(%) = 74.3734    multiswarm AVERAGE(%) = 72.1027
+
+
+n = 250, k = 20
+Problem: 0  MSTheuristic(%) = 62.7539 multiswarm average(%) = 60.8718
+Problem: 1  MSTheuristic(%) = 64.7139 multiswarm average(%) = 64.9197
+Problem: 2  MSTheuristic(%) = 77.9119 multiswarm average(%) = 77.9119
+Problem: 3  MSTheuristic(%) = 61.8564 multiswarm average(%) = 59.0277
+Problem: 4  MSTheuristic(%) = 69.9998 multiswarm average(%) = 67.368
+Problem: 5  MSTheuristic(%) = 51.1864 multiswarm average(%) = 50.6053
+Problem: 6  MSTheuristic(%) = 74.5265 multiswarm average(%) = 72.1657
+Problem: 7  MSTheuristic(%) = 69.6035 multiswarm average(%) = 64.9119
+Problem: 8  MSTheuristic(%) = 80.1464 multiswarm average(%) = 76.1152
+Problem: 9  MSTheuristic(%) = 64.5079 multiswarm average(%) = 62.514
+Problem: 10  MSTheuristic(%) = 70.0023 multiswarm average(%) = 65.8149
+Problem: 11  MSTheuristic(%) = 71.1618 multiswarm average(%) = 69.2474
+Problem: 12  MSTheuristic(%) = 62.7193 multiswarm average(%) = 60.538
+Problem: 13  MSTheuristic(%) = 65.3023 multiswarm average(%) = 63.3086
+Problem: 14  MSTheuristic(%) = 72.9006 multiswarm average(%) = 66.4975
+MSTheuristic AVERAGE(%) = 67.9529    multiswarm AVERAGE(%) = 65.4545
+
+
+n = 250, k = 50
+Problem: 0  MSTheuristic(%) = 50.1883 multiswarm average(%) = 45.851
+Problem: 1  MSTheuristic(%) = 53.7604 multiswarm average(%) = 53.1227
+Problem: 2  MSTheuristic(%) = 60.3661 multiswarm average(%) = 58.4034
+Problem: 3  MSTheuristic(%) = 51.3878 multiswarm average(%) = 48.6895
+Problem: 4  MSTheuristic(%) = 59.2215 multiswarm average(%) = 57.2692
+Problem: 5  MSTheuristic(%) = 45.0729 multiswarm average(%) = 43.3446
+Problem: 6  MSTheuristic(%) = 60.1929 multiswarm average(%) = 55.8047
+Problem: 7  MSTheuristic(%) = 56.6872 multiswarm average(%) = 53.7699
+Problem: 8  MSTheuristic(%) = 66.5718 multiswarm average(%) = 61.7443
+Problem: 9  MSTheuristic(%) = 53.6903 multiswarm average(%) = 53.2672
+Problem: 10  MSTheuristic(%) = 57.5094 multiswarm average(%) = 57.5094
+Problem: 11  MSTheuristic(%) = 62.6663 multiswarm average(%) = 58.2808
+Problem: 12  MSTheuristic(%) = 54.2659 multiswarm average(%) = 52.5126
+Problem: 13  MSTheuristic(%) = 55.986 multiswarm average(%) = 54.2035
+Problem: 14  MSTheuristic(%) = 58.8643 multiswarm average(%) = 56.8134
+MSTheuristic AVERAGE(%) = 56.4287    multiswarm AVERAGE(%) = 54.0391
+
+
+///////////////////////////////////////////////////////////////////////////////
+estein/estein500.txt
+n = 500, k = 5
+Problem: 0  MSTheuristic(%) = 80.6817 multiswarm average(%) = 80.6817
+Problem: 1  MSTheuristic(%) = 94.627 multiswarm average(%) = 94.627
+Problem: 2  MSTheuristic(%) = 94.3091 multiswarm average(%) = 94.3091
+Problem: 3  MSTheuristic(%) = 79.2553 multiswarm average(%) = 79.2553
+Problem: 4  MSTheuristic(%) = 94.1797 multiswarm average(%) = 94.1797
+Problem: 5  MSTheuristic(%) = 71.1955 multiswarm average(%) = 71.1955
+Problem: 6  MSTheuristic(%) = 80.7262 multiswarm average(%) = 79.1674
+Problem: 7  MSTheuristic(%) = 90.6829 multiswarm average(%) = 90.6829
+Problem: 8  MSTheuristic(%) = 88.8679 multiswarm average(%) = 88.8679
+Problem: 9  MSTheuristic(%) = 89.471 multiswarm average(%) = 86.9708
+Problem: 10  MSTheuristic(%) = 71.0373 multiswarm average(%) = 71.6484
+Problem: 11  MSTheuristic(%) = 83.8012 multiswarm average(%) = 83.7288
+Problem: 12  MSTheuristic(%) = 92.6658 multiswarm average(%) = 92.5888
+Problem: 13  MSTheuristic(%) = 84.0936 multiswarm average(%) = 82.9172
+Problem: 14  MSTheuristic(%) = 73.3136 multiswarm average(%) = 71.3106
+MSTheuristic AVERAGE(%) = 84.5939    multiswarm AVERAGE(%) = 84.1421
+
+
+n = 500, k = 10
+Problem: 0  MSTheuristic(%) = 78.0307 multiswarm average(%) = 78.0307
+Problem: 1  MSTheuristic(%) = 88.0217 multiswarm average(%) = 85.6129
+Problem: 2  MSTheuristic(%) = 88.8242 multiswarm average(%) = 88.2369
+Problem: 3  MSTheuristic(%) = 69.466 multiswarm average(%) = 71.0247
+Problem: 4  MSTheuristic(%) = 86.8769 multiswarm average(%) = 86.2359
+Problem: 5  MSTheuristic(%) = 69.7568 multiswarm average(%) = 69.4424
+Problem: 6  MSTheuristic(%) = 76.5725 multiswarm average(%) = 75.8854
+Problem: 7  MSTheuristic(%) = 79.8921 multiswarm average(%) = 79.8921
+Problem: 8  MSTheuristic(%) = 85.1035 multiswarm average(%) = 80.6469
+Problem: 9  MSTheuristic(%) = 85.0537 multiswarm average(%) = 84.8985
+Problem: 10  MSTheuristic(%) = 66.3214 multiswarm average(%) = 66.1269
+Problem: 11  MSTheuristic(%) = 78.5057 multiswarm average(%) = 74.2728
+Problem: 12  MSTheuristic(%) = 89.8304 multiswarm average(%) = 86.306
+Problem: 13  MSTheuristic(%) = 80.9453 multiswarm average(%) = 77.952
+Problem: 14  MSTheuristic(%) = 69.2448 multiswarm average(%) = 69.2448
+MSTheuristic AVERAGE(%) = 79.4964    multiswarm AVERAGE(%) = 78.2539
+
+
+n = 500, k = 20
+Problem: 0  MSTheuristic(%) = 71.5446 multiswarm average(%) = 70.4096
+Problem: 1  MSTheuristic(%) = 80.6172 multiswarm average(%) = 79.8843
+Problem: 2  MSTheuristic(%) = 84.2526 multiswarm average(%) = 81.8657
+Problem: 3  MSTheuristic(%) = 65.6176 multiswarm average(%) = 64.5616
+Problem: 4  MSTheuristic(%) = 80.7546 multiswarm average(%) = 79.9398
+Problem: 5  MSTheuristic(%) = 64.2273 multiswarm average(%) = 64.2273
+Problem: 6  MSTheuristic(%) = 69.8909 multiswarm average(%) = 69.8909
+Problem: 7  MSTheuristic(%) = 75.068 multiswarm average(%) = 72.7548
+Problem: 8  MSTheuristic(%) = 76.929 multiswarm average(%) = 71.9882
+Problem: 9  MSTheuristic(%) = 82.5891 multiswarm average(%) = 77.0227
+Problem: 10  MSTheuristic(%) = 59.4444 multiswarm average(%) = 58.559
+Problem: 11  MSTheuristic(%) = 70.5561 multiswarm average(%) = 70.383
+Problem: 12  MSTheuristic(%) = 83.2744 multiswarm average(%) = 82.9399
+Problem: 13  MSTheuristic(%) = 73.8113 multiswarm average(%) = 69.5394
+Problem: 14  MSTheuristic(%) = 63.9734 multiswarm average(%) = 62.8244
+MSTheuristic AVERAGE(%) = 73.5034    multiswarm AVERAGE(%) = 71.7861
+
+
+n = 500, k = 50
+Problem: 0  MSTheuristic(%) = 61.5203 multiswarm average(%) = 58.9724
+Problem: 1  MSTheuristic(%) = 67.9026 multiswarm average(%) = 67.5713
+Problem: 2  MSTheuristic(%) = 73.769 multiswarm average(%) = 72.7294
+Problem: 3  MSTheuristic(%) = 58.5231 multiswarm average(%) = 57.0256
+Problem: 4  MSTheuristic(%) = 72.7745 multiswarm average(%) = 71.947
+Problem: 5  MSTheuristic(%) = 56.0409 multiswarm average(%) = 54.7463
+Problem: 6  MSTheuristic(%) = 62.6399 multiswarm average(%) = 61.4953
+Problem: 7  MSTheuristic(%) = 64.9247 multiswarm average(%) = 64.4254
+Problem: 8  MSTheuristic(%) = 66.5562 multiswarm average(%) = 65.0607
+Problem: 9  MSTheuristic(%) = 69.2386 multiswarm average(%) = 69.2386
+Problem: 10  MSTheuristic(%) = 50.968 multiswarm average(%) = 48.5566
+Problem: 11  MSTheuristic(%) = 60.5744 multiswarm average(%) = 61.3072
+Problem: 12  MSTheuristic(%) = 73.6902 multiswarm average(%) = 69.9486
+Problem: 13  MSTheuristic(%) = 63.0734 multiswarm average(%) = 60.1461
+Problem: 14  MSTheuristic(%) = 56.6464 multiswarm average(%) = 53.9307
+MSTheuristic AVERAGE(%) = 63.9228    multiswarm AVERAGE(%) = 62.4734
+
+
+///////////////////////////////////////////////////////////////////////////////
+estein/estein1000.txt
+n = 1000, k = 5
+Problem: 0  MSTheuristic(%) = 85.9988 multiswarm average(%) = 86.9876
+Problem: 1  MSTheuristic(%) = 93.646 multiswarm average(%) = 93.646
+Problem: 2  MSTheuristic(%) = 69.2364 multiswarm average(%) = 69.3793
+Problem: 3  MSTheuristic(%) = 89.4301 multiswarm average(%) = 89.4301
+Problem: 4  MSTheuristic(%) = 91.1982 multiswarm average(%) = 91.1982
+Problem: 5  MSTheuristic(%) = 89.0949 multiswarm average(%) = 89.0949
+Problem: 6  MSTheuristic(%) = 78.6624 multiswarm average(%) = 77.8286
+Problem: 7  MSTheuristic(%) = 83.0857 multiswarm average(%) = 83.0857
+Problem: 8  MSTheuristic(%) = 87.778 multiswarm average(%) = 87.778
+Problem: 9  MSTheuristic(%) = 90.8034 multiswarm average(%) = 91.5744
+Problem: 10  MSTheuristic(%) = 91.3831 multiswarm average(%) = 91.3831
+Problem: 11  MSTheuristic(%) = 91.5802 multiswarm average(%) = 88.444
+Problem: 12  MSTheuristic(%) = 80.0399 multiswarm average(%) = 80.0399
+Problem: 13  MSTheuristic(%) = 92.6923 multiswarm average(%) = 89.8582
+Problem: 14  MSTheuristic(%) = 79.587 multiswarm average(%) = 79.587
+MSTheuristic AVERAGE(%) = 86.2811    multiswarm AVERAGE(%) = 85.9543
+
+
+n = 1000, k = 10
+Problem: 0  MSTheuristic(%) = 77.8046 multiswarm average(%) = 77.0617
+Problem: 1  MSTheuristic(%) = 89.3572 multiswarm average(%) = 89.1672
+Problem: 2  MSTheuristic(%) = 66.9968 multiswarm average(%) = 66.9968
+Problem: 3  MSTheuristic(%) = 83.9169 multiswarm average(%) = 81.2033
+Problem: 4  MSTheuristic(%) = 85.5522 multiswarm average(%) = 84.102
+Problem: 5  MSTheuristic(%) = 85.3273 multiswarm average(%) = 85.3273
+Problem: 6  MSTheuristic(%) = 72.167 multiswarm average(%) = 71.9559
+Problem: 7  MSTheuristic(%) = 80.968 multiswarm average(%) = 78.7683
+Problem: 8  MSTheuristic(%) = 78.8069 multiswarm average(%) = 78.5424
+Problem: 9  MSTheuristic(%) = 82.9354 multiswarm average(%) = 80.4948
+Problem: 10  MSTheuristic(%) = 82.6696 multiswarm average(%) = 82.5039
+Problem: 11  MSTheuristic(%) = 84.5025 multiswarm average(%) = 84.5025
+Problem: 12  MSTheuristic(%) = 72.4882 multiswarm average(%) = 72.4882
+Problem: 13  MSTheuristic(%) = 87.2948 multiswarm average(%) = 87.1712
+Problem: 14  MSTheuristic(%) = 76.9276 multiswarm average(%) = 76.9276
+MSTheuristic AVERAGE(%) = 80.5143    multiswarm AVERAGE(%) = 79.8142
+
+
+n = 1000, k = 20
+Problem: 0  MSTheuristic(%) = 74.5196 multiswarm average(%) = 74.4355
+Problem: 1  MSTheuristic(%) = 87.1211 multiswarm average(%) = 84.8948
+Problem: 2  MSTheuristic(%) = 62.1146 multiswarm average(%) = 60.8359
+Problem: 3  MSTheuristic(%) = 79.1091 multiswarm average(%) = 79.1091
+Problem: 4  MSTheuristic(%) = 80.3209 multiswarm average(%) = 80.3209
+Problem: 5  MSTheuristic(%) = 80.276 multiswarm average(%) = 79.1925
+Problem: 6  MSTheuristic(%) = 69.4136 multiswarm average(%) = 68.7965
+Problem: 7  MSTheuristic(%) = 77.8564 multiswarm average(%) = 75.7821
+Problem: 8  MSTheuristic(%) = 74.9254 multiswarm average(%) = 74.509
+Problem: 9  MSTheuristic(%) = 77.9199 multiswarm average(%) = 76.9547
+Problem: 10  MSTheuristic(%) = 78.7551 multiswarm average(%) = 76.5067
+Problem: 11  MSTheuristic(%) = 79.146 multiswarm average(%) = 79.1526
+Problem: 12  MSTheuristic(%) = 67.7496 multiswarm average(%) = 68.2008
+Problem: 13  MSTheuristic(%) = 85.0014 multiswarm average(%) = 84.1355
+Problem: 14  MSTheuristic(%) = 71.0459 multiswarm average(%) = 69.8435
+MSTheuristic AVERAGE(%) = 76.3517    multiswarm AVERAGE(%) = 75.5113
+
+
+n = 1000, k = 50
+Problem: 0  MSTheuristic(%) = 68.179 multiswarm average(%) = 67.3371
+Problem: 1  MSTheuristic(%) = 79.8307 multiswarm average(%) = 78.211
+Problem: 2  MSTheuristic(%) = 56.6313 multiswarm average(%) = 55.2779
+Problem: 3  MSTheuristic(%) = 71.194 multiswarm average(%) = 70.6951
+Problem: 4  MSTheuristic(%) = 74.3485 multiswarm average(%) = 73.2333
+Problem: 5  MSTheuristic(%) = 73.3004 multiswarm average(%) = 70.9254
+Problem: 6  MSTheuristic(%) = 62.8395 multiswarm average(%) = 62.1732
+Problem: 7  MSTheuristic(%) = 69.3084 multiswarm average(%) = 68.6009
+Problem: 8  MSTheuristic(%) = 67.5001 multiswarm average(%) = 65.5357
+Problem: 9  MSTheuristic(%) = 71.4551 multiswarm average(%) = 70.7262
+Problem: 10  MSTheuristic(%) = 70.493 multiswarm average(%) = 68.8709
+Problem: 11  MSTheuristic(%) = 71.9171 multiswarm average(%) = 71.8567
+Problem: 12  MSTheuristic(%) = 60.8238 multiswarm average(%) = 60.1032
+Problem: 13  MSTheuristic(%) = 78.4676 multiswarm average(%) = 75.98
+Problem: 14  MSTheuristic(%) = 64.8638 multiswarm average(%) = 63.7534
+MSTheuristic AVERAGE(%) = 69.4102    multiswarm AVERAGE(%) = 68.2187

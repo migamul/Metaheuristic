@@ -1,0 +1,6 @@
+
+w1 = 0.85
+w2 = 0.25
+
+broj evolucija = 500
+velicina swarma = 500

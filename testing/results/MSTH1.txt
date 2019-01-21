@@ -1,0 +1,41 @@
+uključene sve instance za određeni n
+
+estein/estein10.txt
+k = 5
+MSTheuristic(%) = 53.0082
+k = 10
+MSTheuristic(%) = 35.8842
+k = 20
+MSTheuristic(%) = 21.0127
+k = 50
+MSTheuristic(%) = 9.57005
+
+estein/estein20.txt
+k = 5
+MSTheuristic(%) = 59.019
+k = 10
+MSTheuristic(%) = 46.0345
+k = 20
+MSTheuristic(%) = 30.8619
+k = 50
+MSTheuristic(%) = 15.1708
+
+estein/estein50.txt
+k = 5
+MSTheuristic(%) = 69.7402
+k = 10
+MSTheuristic(%) = 59.1253
+k = 20
+MSTheuristic(%) = 46.4721
+k = 50
+MSTheuristic(%) = 27.8198
+
+estein/estein100.txt
+k = 5
+MSTheuristic(%) = 74.6191
+k = 10
+MSTheuristic(%) = 65.6902
+k = 20
+MSTheuristic(%) = 58.1475
+k = 50
+MSTheuristic(%) = 41.1073

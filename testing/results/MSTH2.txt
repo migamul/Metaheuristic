@@ -1,0 +1,41 @@
+samo prva instanca za svaki n
+
+estein/estein10.txt
+k = 5
+MSTheuristic(%) = 75.3108
+k = 10
+MSTheuristic(%) = 47.5404
+k = 20
+MSTheuristic(%) = 26.7026
+k = 50
+MSTheuristic(%) = 12.5518
+
+estein/estein20.txt
+k = 5
+MSTheuristic(%) = 62.0468
+k = 10
+MSTheuristic(%) = 56.3548
+k = 20
+MSTheuristic(%) = 35.6111
+k = 50
+MSTheuristic(%) = 18.4232
+
+estein/estein50.txt
+k = 5
+MSTheuristic(%) = 73.5419
+k = 10
+MSTheuristic(%) = 55.45
+k = 20
+MSTheuristic(%) = 47.0533
+k = 50
+MSTheuristic(%) = 26.8972
+
+estein/estein100.txt
+k = 5
+MSTheuristic(%) = 68.0017
+k = 10
+MSTheuristic(%) = 57.6747
+k = 20
+MSTheuristic(%) = 48.4238
+k = 50
+MSTheuristic(%) = 32.0705

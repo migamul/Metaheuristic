@@ -1,0 +1,6 @@
+1 EVOLUTION: MSTheuristic(%) = 75.3108 multiswarm(%) = 71.0149
+10 EVOLUTIONS: MSTheuristic(%) = 75.3108 multiswarm(%) = 63.923
+20 EVOLUTIONS: MSTheuristic(%) = 75.3108 multiswarm(%) = 63.923
+30 EVOLUTIONS: MSTheuristic(%) = 75.3108 multiswarm(%) = 63.6471
+40 EVOLUTIONS: MSTheuristic(%) = 75.3108 multiswarm(%) = 63.6471
+50 EVOLUTIONS: MSTheuristic(%) = 75.3108 multiswarm(%) = 63.5847
